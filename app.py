@@ -3,6 +3,12 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
+st.set_page_config(
+    page_title="Titanic Survival App",  # ← le nom que tu veux voir dans l’onglet
+    page_icon="🚢",                     # ← emoji ou URL d'icône perso
+    layout="centered"
+)
+
 # 1. Entraînement du modèle
 df = pd.read_csv("train.csv")
 
