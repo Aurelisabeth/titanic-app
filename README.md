@@ -25,3 +25,17 @@ Elle utilise un modèle de **Random Forest** entraîné sur le dataset `Californ
 
 ```bash
 streamlit run app.py
+
+## 🧭 Prochaine étape :
+
+- Corrige le problème de connexion Streamlit si besoin (déconnexion, cache, reconnexion GitHub)
+- Pousse tous tes fichiers sur GitHub
+- Retourne sur [streamlit.io/cloud](https://streamlit.io/cloud)
+- Clique sur **New app > ton dépôt > app.py > Deploy**
+
+---
+
+Et dès que c’est en ligne... tu peux le **montrer fièrement** à ton entourage ou à un recruteur 💼✨  
+Je suis à bord si tu veux encore peaufiner ou tester des cas utilisateur !
+
+Tu veux que je reste ici au cas où tu as une dernière vérif avant le décollage final ? 🚀
